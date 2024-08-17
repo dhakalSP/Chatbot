@@ -21,7 +21,6 @@ Expand Knowledge Base: Continuously update the chatbot's knowledge base with new
 Advanced AI Integration: Explore integration with more advanced AI capabilities for better natural language processing and more complex query handling.
 Multi-Language Support: Implement support for multiple languages to cater to a diverse audience.
 Conclusion
-This chatbot project was a valuable learning experience, allowing me to apply AI technologies to a real-world scenario. The chatbot is now live on the GGU website, helping users find the information they need more efficiently.
-
+This chatbot project was a valuable learning experience, allowing me to apply AI technologies to a real-world scenario. 
 License
 This project is for educational purposes and is not intended for commercial use. Feel free to explore and learn, but please respect the guidelines for academic integrity.
